@@ -7,7 +7,7 @@ CLASSES = {
 };
 
 const MODEL_PATH =
-    document.URL + "model.json";
+    "model.json";
 
 const IMAGE_SIZE = 192;
 const TOPK_PREDICTIONS = 5;
